@@ -36,18 +36,18 @@ To run **Desinic** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/desinic.git
+sudo git clone https://github.com/uttargurung?tab=repositories
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/desinic.git
+git clone https://github.com/uttargurung?tab=repositories
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter]().
 
 ### License
 
